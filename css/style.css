@@ -56,3 +56,29 @@ header .container .menu a:hover {
     padding-bottom: 10px;
     border-bottom: 5px solid;
 }
+
+footer {
+    background-color:black;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+footer .container .left a {
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 230, 5);
+}
+
+footer .container .left {
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 230, 5);
+    margin-left: 10px;
+}
+
+footer .container .right a {
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 230, 5);
+}
+
